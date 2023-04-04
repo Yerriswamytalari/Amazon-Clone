@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ADD TO CART</title>
+    <link rel="stylesheet" href="./cart.css">
+    <script src="https://kit.fontawesome.com/ffd8293f0c.js"crossorigin="anonymous"></script>
+</head>
+<body>
+    <header id="head">
+        <nav id="nav">
+          <img
+            id="amz"
+            src="https://tse4.mm.bing.net/th?id=OIP.WGxtnw81X7exO2PxiVlL9QHaEK&pid=Api&P=0"
+          />
+          <input id="search" type="search" placeholder="Search Amazon.in" />
+          <i id="iser" class="fa-solid fa-magnifying-glass"></i>
+          <img
+            id="flag"
+            src="https://tse2.mm.bing.net/th?id=OIP.9YtAsanlFMBU3PoImltJpwHaFP&pid=Api&P=0"
+          />
+          <select id="select">
+            <!-- <option>LANGUAGE</option> -->
+            <option>ENGLISH</option>
+            <option>HINDI</option>
+            <option>TELUGU</option>
+            <option>KANNADA</option>
+            <option>TAMIL</option>
+            <option>MALAYALAM</option>
+            <option>BENGALI</option>
+            <option>MARATHI</option>
+          </select>
+          <a id="signup" href="./signup.html">Sign up</a>
+          <a id="signin" href="./signin.html">Sign in</a>
+          <a href="./cart.html"><i id="cart" class="fa-solid fa-cart-plus"></i></a>
+        </nav>
+      </header>
+      <!-- header1 completed -->
+      <!-- second header -->
+      <header id="head2">
+        <nav id="nav2">
+          <i id="menu" class="fa-sharp fa-solid fa-bars"></i><h2><a id="ng11" href="./home.html">Home</a></h2>
+          <h2><a id="ng1" href="./bestsellers.html">Best Sellers</a></h2>
+          <h2><a id="ng2" href="./mobiles.html">Mobiles</a></h2>
+          <h2><a id="ng3" href="./kitchen.html">Home & Kitchen</a></h2>
+          <h2><a id="ng4" href="./fashion.html">Fashion</a></h2>
+          <h2><a id="ng5" href="./mens.html">Men's</a></h2>
+          <h2><a id="ng6" href="./womens.html">Women's</a></h2>
+          <h2><a id="ng7" href="./newrelease.html">New Releases</a></h2>
+          <h2><a id="ng8" href="./amazonpay.html">Amazon Pay</a></h2>
+          <h2><a id="ng9" href="./amazonservices.html">Amazon Services</a></h2>
+          <h2><a id="ng10" href="./amazonsell.html">Amazon Sell</a></h2>
+        </nav>
+      </header>
+      <!-- header completed---- -->
+      <div id="itemadded">
+       <div id="item1"></div>
+      </div>
+</body>
+</html>
+
+<script>
+    var gotitem = JSON.parse(localStorage.getItem(`meeshocart`)) || []
+    // console.log(gotitem)
+
+    function displey(rakhi){
+        rakhi.forEach((elem)=>{
+        
+        let div = document.createElement("div");
+        
+        let image = document.createElement("img")
+        image.src = elem.image;
+
+        let name = document.createElement("h3")
+        name.innerText = elem.name;
+
+        let rating = document.createElement("h5")
+        rating.innerText = elem.rating;
+
+        let deal = document.createElement("h4")
+         deal.innerText = elem.deal;
+
+        let money = document.createElement("h2")
+        money.innerText = elem.money;
+
+        let delivery = document.createElement("h6")
+        delivery.innerText = elem.delivery;
+
+        let button = document.createElement("button")
+        button.innerText = "REMOVE";
+        button.addEventListener(`click`, function(){
+          
+        })
+       
+        div.append(image,name,rating,deal,money,delivery)
+        item1.append(div)
+
+        })
+    }
+
+    displey(gotitem)
+
+
+    // loggingin name append----------------------------------------------------------------------------->
+    let getdata = JSON.parse(localStorage.getItem(`loging`))
+
+  let enterdata = document.getElementById('signin')
+
+  enterdata.innerHTML = ''
+
+  let rakhi = (data) => {
+    // let div = document.createElement("div")
+
+    let logname = document.createElement('h2')
+    logname.innerText = data.name
+
+    // div.append(logname);
+
+    let signinappend = document.querySelector('#signin')
+    signinappend.append(logname)
+  }
+  rakhi(getdata)
+</script>

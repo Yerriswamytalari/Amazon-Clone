@@ -1,0 +1,334 @@
+#head{
+    height: 70px;
+    background-color: black;
+}
+#nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+#amz{
+    height: 52px;
+    width: 200px;
+    padding-top: 14px;
+   
+}
+
+#flag{
+    height: 20px;
+    width: 20px;
+    padding-top: 30px;
+}
+
+#search{
+    height: 40px;
+    width: 600px;
+    margin-top: 20px;
+    border: none;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+#select{
+    height: 20px;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: -45px;
+    color: white;
+    background-color: black;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+#iser{
+   font-size: 25px;
+   margin-top: 20px;
+   margin-left: -50px;
+   height: 32px;
+   width: 40px;
+   background-color: #ffcf79;
+   padding-left: 10px;
+   padding-top: 8px;
+   border-radius: 0px 5px 5px 0px;
+}
+
+#divh2{
+ display: flex;
+ 
+}
+
+#signin{
+color: white;
+text-decoration: none;
+}
+#signup{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+}
+#signup:hover{
+    color: white;
+    
+}
+#signup:visited{
+    color: white;
+text-decoration: none;
+}
+
+#cart{
+    margin-top: 33px;
+    color: white;
+    margin-left: -20px;
+}
+
+#nav>h2{
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#head2{
+height: 45px;
+background-color: #222831;
+}
+
+#nav2{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+#nav2>h2{
+    font-size: 18px;
+    margin-top: 10px;
+    /* border-spacing: 15px 15px; */
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#menu{
+    padding-top: 14px;
+}
+
+#menu:hover{
+    border: 1px solid white;
+    
+}
+h2:hover{
+    border: 1px solid white;
+}
+
+#ng1{
+    color: white;
+    text-decoration: none;
+}
+#ng1:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng1:visited{
+    color: white;
+    text-decoration: none;
+}
+/* ------------------------------ */
+#ng2{
+    color: white;
+    text-decoration: none;
+}
+#ng2:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng2:visited{
+    color: white;
+    text-decoration: none;
+}
+/* ----------------------------------- */
+#ng3{
+    color: white;
+    text-decoration: none;
+}
+#ng3:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng3:visited{
+    color: white;
+    text-decoration: none;
+}
+/* -------------------------------------- */
+#ng4{
+    color: white;
+    text-decoration: none;
+}
+#ng4:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng4:visited{
+    color: white;
+    text-decoration: none;
+}
+/* ----------------------------------- */
+#ng5{
+    color: white;
+    text-decoration: none;
+}
+#ng5:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng5:visited{
+    color: white;
+    text-decoration: none;
+}
+/* -------------------------------------------- */
+#ng6{
+    color: white;
+    text-decoration: none;
+}
+#ng6:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng6:visited{
+    color: white;
+    text-decoration: none;
+}
+/* ------------------------------------------- */
+#ng7{
+    color: white;
+    text-decoration: none;
+}
+#ng7:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng7:visited{
+    color: white;
+    text-decoration: none;
+}
+/* ------------------------------------------ */
+#ng8{
+    color: white;
+    text-decoration: none;
+}
+#ng8:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng8:visited{
+    color: white;
+    text-decoration: none;
+}
+/* ---------------------------------------------------- */
+#ng9{
+    color: white;
+    text-decoration: none;
+}
+#ng9:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng9:visited{
+    color: white;
+    text-decoration: none;
+}
+/* --------------------------------------------- */
+#ng10{
+    color: white;
+    text-decoration: none;
+}
+#ng10:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng10:visited{
+    color: white;
+    text-decoration: none;
+}
+/* ------------------------------------------------ */
+#ng11{
+    color: white;
+    text-decoration: none;
+}
+#ng11:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng11:visited{
+    color: white;
+    text-decoration: none;
+}
+#signin{
+    /* margin-top: 6px; */
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+
+
+    /* cart items are stored------------------------------------------------------------------------ */
+
+    #item1{
+        display: flex;
+        /* margin-left: 300px; */
+        justify-content: space-evenly;
+        margin-top: 50px;
+    }
+    #item1 img{
+        height: 300px;
+        width: 200px;
+        /* margin-left: 40px; */
+    }
+    #item1 h3{
+        word-break: break-all;
+        width: 150px;
+        /* margin-left: 40px; */
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    #item1 h5{
+        color: #007185;
+        /* margin-left: 40px; */
+        margin-top: -10px;
+    }
+    #item1 h4{
+        height: 20px;
+        width: 100px;
+        border: 1px solid black;
+        padding:  6px;
+        background-color: #7fda69;
+        font-size: 14px;
+        line-height: 20px;
+        padding-top: 4px;
+        /* color: #ffff; */
+        /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+        font-family: "Amazon Ember",Arial,sans-serif;
+        /* margin-left: 40px; */
+        margin-top: -10px;
+    }
+    #item1 h2{
+        /* margin-left: 45px; */
+        margin-top: -10px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    #item1 h6{
+        /* margin-left: 40px; */
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        /* margin-top: -10px; */
+    }
+    

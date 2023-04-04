@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./home1.css" />
+    <script
+      src="https://kit.fontawesome.com/ffd8293f0c.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <header id="head">
+      <nav id="nav">
+        <img
+          id="amz"
+          src="https://tse4.mm.bing.net/th?id=OIP.WGxtnw81X7exO2PxiVlL9QHaEK&pid=Api&P=0"
+        />
+        <input id="search" type="search" placeholder="Search Amazon.in" />
+        <div id="iser">
+          <i class="fa-solid fa-magnifying-glass"></i>
+        </div>
+        <img
+          id="flag"
+          src="https://tse2.mm.bing.net/th?id=OIP.9YtAsanlFMBU3PoImltJpwHaFP&pid=Api&P=0"
+        />
+        <select id="select">
+          <option>ENGLISH</option>
+          <option>HINDI</option>
+          <option>TELUGU</option>
+          <option>KANNADA</option>
+          <option>TAMIL</option>
+          <option>MALAYALAM</option>
+          <option>BENGALI</option>
+          <option>MARATHI</option>
+        </select>
+        <h2><a id="signup" href="./signup.html">Signup</a></h2>
+        <h2><a id="signin" href="./signin.html">Signin</a></h2>
+        <i id="cart" class="fa-solid fa-cart-plus">cart</i>
+      </nav>
+    </header>
+    <!-- header completed -->
+    <!-- second header -->
+    <header id="head2">
+      <nav id="nav2">
+        <i id="menu" class="fa-sharp fa-solid fa-bars">All</i>
+        <h2>Best Sellers</h2>
+        <h2>Mobiles</h2>
+        <h2>Electronics</h2>
+        <h2>Fashion</h2>
+        <h2>Deals</h2>
+        <h2>Fresh</h2>
+        <h2>Home & Kitchen</h2>
+        <h2>Beauty</h2>
+        <h2>Pharmacy</h2>
+        <h2>Books & Toys</h2>
+      </nav>
+    </header>
+    <!-- sliding started -->
+
+    <div id="slide">
+      <!-- <button ></button> -->
+      <div onclick="prev()">
+        <i id="prev" class="fa-solid fa-chevron-left"></i>
+      </div>
+      <div>
+        <img
+          id="clear"
+          src="https://m.media-amazon.com/images/I/613vAJX5IvL._SX3000_.jpg"
+        />
+        <img id="counting" src="" />
+      </div>
+      <!-- <button ></button> -->
+      <div onclick="next()">
+        <i id="next" class="fa-solid fa-chevron-right"></i>
+      </div>
+    </div>
+  </body>
+</html>
+
+<script>
+  let storedata = [
+    'https://m.media-amazon.com/images/I/71StpdNynVL._SX3000_.jpg',
+    'https://m.media-amazon.com/images/I/71vdTR50hFL._SX3000_.jpg',
+    'https://m.media-amazon.com/images/I/61O759bS39L._SX3000_.jpg',
+    'https://m.media-amazon.com/images/I/61zMXWIfATL._SX3000_.jpg',
+    'https://m.media-amazon.com/images/I/61l4i7aoY2L._SX3000_.jpg',
+    'https://m.media-amazon.com/images/I/51ovs76vmtL._SX3000_.jpg',
+  ]
+
+  let setimg = document.getElementById('clear')
+  let counting = document.getElementById('counting')
+  let i = 0
+  let id
+
+  let prev = () => {
+    id = setTimeout(() => {
+      if (i === storedata.length) {
+        i = 0
+      }
+
+      let addimg = document.getElementById('clear')
+      // addimg.innerHTML = null
+      addimg.src = storedata[i]
+      setimg.append(counting)
+      i++
+    }, 1000)
+  }
+
+  let next = () => {
+    id = setTimeout(() => {
+      let addimg = document.getElementById('clear')
+      addimg.src = storedata[i]
+      setimg.append(counting)
+      i++
+      if (i === storedata.length) {
+        i = 0
+      }
+    }, 1000)
+  }
+</script>

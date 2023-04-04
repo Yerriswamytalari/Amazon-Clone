@@ -1,0 +1,103 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+#head{
+    height: 80px;
+    background-color: black;
+}
+
+#amz{
+    height: 60px;
+    width: 200px;
+}
+#flag{
+    height: 20px;
+    width: 30px;
+    margin-top: 30px;
+}
+#nav{
+    display: flex;
+    justify-content: space-between;
+}
+#cart{
+padding-top: 30px;
+color: white;
+}
+#signin{
+margin-top: 10px;
+text-decoration: none;
+color: white;
+}
+#signin:hover{
+color: white;
+border: 1px solid white;
+}
+#signin:visited{
+    color: white;
+    border: 1px solid white;
+    }
+#signup{
+margin-top: 10px;
+text-decoration: none;
+color: white;
+}
+#signup:hover{
+    color: white;
+border: 1px solid white;
+}
+#signup:visited{
+    color: white;
+border: 1px solid white;
+}
+#select{
+    height: 25px;
+    padding: 5px;
+    margin-top: 30px;
+    width: 150px;
+    background-color: black;
+    color: white;
+}
+#search{
+    height: 45px;
+    width: 500px;
+    margin-top: 25px;
+}
+#iser{
+    height: 45px;
+    width: 45px;
+    border: 1px solid black;
+    font-size: 25px;
+    margin-left: -73px;
+    background-color: #ffcf79;
+    margin-top: 24px;
+    border-radius: 0px 5px 5px 0px;
+}
+#iser i{
+    padding-top: 10px;
+    padding-left: 6px;
+}
+
+
+/* header-1 ............................................................................completed.......... */
+
+#head2{
+    height: 70px;
+    background-color: #222831;
+}
+#nav2{
+    display: flex;
+    justify-content: space-between;
+}
+#menu{
+    margin-top: 26px;
+}
+/* sliding......................................... */
+
+#clear{
+    height: 500px;
+}
+#slide{
+    display: flex;
+}

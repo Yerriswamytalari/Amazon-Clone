@@ -1,0 +1,808 @@
+#head{
+    height: 70px;
+    background-color: black;
+}
+#nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+#amz{
+    height: 52px;
+    width: 200px;
+    padding-top: 14px;
+   
+}
+
+#flag{
+    height: 20px;
+    width: 20px;
+    padding-top: 30px;
+}
+
+#search{
+    height: 40px;
+    width: 600px;
+    margin-top: 20px;
+    border: none;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+#select{
+    height: 20px;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: -45px;
+    color: white;
+    background-color: black;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+#iser{
+   font-size: 25px;
+   margin-top: 20px;
+   margin-left: -50px;
+   height: 32px;
+   width: 40px;
+   background-color: #ffcf79;
+   padding-left: 10px;
+   padding-top: 8px;
+   border-radius: 0px 5px 5px 0px;
+}
+
+#divh2{
+ display: flex;
+ 
+}
+
+#signin{
+color: white;
+text-decoration: none;
+}
+#signup{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+}
+#signup:hover{
+    color: white;
+    
+}
+#signup:visited{
+    color: white;
+text-decoration: none;
+}
+
+#cart{
+    margin-top: 33px;
+    color: white;
+    margin-left: -20px;
+}
+
+#nav>h2{
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#head2{
+height: 45px;
+background-color: #222831;
+}
+
+#nav2{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+#nav2>h2{
+    font-size: 18px;
+    margin-top: 10px;
+    /* border-spacing: 15px 15px; */
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#menu{
+    padding-top: 14px;
+}
+
+#menu:hover{
+    border: 1px solid white;
+    
+}
+h2:hover{
+    border: 1px solid white;
+}
+
+#ng1{
+    color: white;
+    text-decoration: none;
+}
+#ng1:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng1:visited{
+    color: white;
+    text-decoration: none;
+}
+/* ------------------------------ */
+#ng2{
+    color: white;
+    text-decoration: none;
+}
+#ng2:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng2:visited{
+    color: white;
+    text-decoration: none;
+}
+/* ----------------------------------- */
+#ng3{
+    color: white;
+    text-decoration: none;
+}
+#ng3:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng3:visited{
+    color: white;
+    text-decoration: none;
+}
+/* -------------------------------------- */
+#ng4{
+    color: white;
+    text-decoration: none;
+}
+#ng4:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng4:visited{
+    color: white;
+    text-decoration: none;
+}
+/* ----------------------------------- */
+#ng5{
+    color: white;
+    text-decoration: none;
+}
+#ng5:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng5:visited{
+    color: white;
+    text-decoration: none;
+}
+/* -------------------------------------------- */
+#ng6{
+    color: white;
+    text-decoration: none;
+}
+#ng6:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng6:visited{
+    color: white;
+    text-decoration: none;
+}
+/* ------------------------------------------- */
+#ng7{
+    color: white;
+    text-decoration: none;
+}
+#ng7:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng7:visited{
+    color: white;
+    text-decoration: none;
+}
+/* ------------------------------------------ */
+#ng8{
+    color: white;
+    text-decoration: none;
+}
+#ng8:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng8:visited{
+    color: white;
+    text-decoration: none;
+}
+/* ---------------------------------------------------- */
+#ng9{
+    color: white;
+    text-decoration: none;
+}
+#ng9:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng9:visited{
+    color: white;
+    text-decoration: none;
+}
+/* --------------------------------------------- */
+#ng10{
+    color: white;
+    text-decoration: none;
+}
+#ng10:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng10:visited{
+    color: white;
+    text-decoration: none;
+}
+/* ----------------------------------------------------- */
+#ng11{
+    color: white;
+    text-decoration: none;
+}
+#ng11:hover{
+ color: white;
+ text-decoration: none;
+ border: none;
+}
+#ng11:visited{
+    color: white;
+    text-decoration: none;
+}
+#signin{
+    /* margin-top: 6px; */
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+/* header completed-------------------------------------------------------------------------------------- */
+
+#filter{
+    margin-left: 20px;
+}
+#fch1 h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#fch1 h5{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    margin-top: -15px;
+}
+#fch5 h4{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    margin-top: -14px;
+}
+/* womens nightys------------------------------------------------------------------------------------ */
+#woh2{
+    margin-left: 370px;
+    transform: translateY(-1250px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#women{
+    display: flex;
+    margin-top: -1200px;
+    margin-left: 400px;
+}
+#wom1{
+   height: 300px;
+   width: 400px;
+    
+}
+#wom1 h4{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+#wom2{
+    height: 300px;
+    width: 400px;
+ }
+ #wom2 h4{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+ #wom3{
+    height: 300px;
+    width: 400px;
+     
+ }
+ #wom3 h4{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+/* womens-1 ---------------------------------------------------------------------------------------------- */
+#WOMEN{
+    margin-top: -100px;
+}
+#wch1{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+#wch1 img{
+    height: 300px;
+    width: 200px;
+    margin-left: 40px;
+}
+#wch1 h3{
+    word-break: break-all;
+    width: 150px;
+    margin-left: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#wch1 h5{
+    color: #007185;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+#wch1 h4{
+    height: 20px;
+    width: 80px;
+    border: 1px solid black;
+    padding-left:  16px;
+    background-color: #7fda69;
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 4px;
+    /* color: #ffff; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: "Amazon Ember",Arial,sans-serif;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+#wch1 h2{
+    margin-left: 45px;
+    margin-top: -10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#wch1 h6{
+    margin-left: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -10px;
+}
+#wch1 button{
+    margin-left: 20px;
+    width: 200px;
+    height: 30px;
+    border: none;
+    /* border: 1px solid black; */
+    border-radius: 20px;
+    background-color: #fad02c;
+}
+
+/* womens-2----------------------------------------------------------------------------------------------- */
+
+#wch2{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+#wch2 img{
+    height: 300px;
+    width: 200px;
+    margin-left: 40px;
+}
+#wch2 h3{
+    word-break: break-all;
+    width: 150px;
+    margin-left: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#wch2 h5{
+    color: #007185;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+#wch2 h4{
+    height: 20px;
+    width: 80px;
+    border: 1px solid black;
+    padding-left:  20px;
+    background-color: #7fda69;
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 4px;
+    /* color: #ffff; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: "Amazon Ember",Arial,sans-serif;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+#wch2 h2{
+    margin-left: 45px;
+    margin-top: -10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#wch2 h6{
+    margin-left: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -10px;
+}
+#wch2 button{
+    margin-left: 20px;
+    width: 200px;
+    height: 30px;
+    border: none;
+    /* border: 1px solid black; */
+    border-radius: 20px;
+    background-color: #fad02c;
+}
+
+/* womens advertisement-1---------------------------------------------------------------------------------- */
+
+#add{
+    display: flex;
+}
+video{
+    height: 350px;
+    width: 500px;
+    margin-left: 300px;
+}
+#addimg img{
+    height: 220px;
+    width: 200px;
+    margin-top: 60px;
+    margin-left: 10px;
+}
+#addpara h3{
+    word-break: break-all;
+    width: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#addpara{
+    /* margin-left: 10px; */
+    margin-top: 50px;
+}
+#addpara h4{
+margin-top: -10px;
+}
+#addpara h2{
+margin-top: -10px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#addpara h5{
+margin-top: -10px;
+}
+#addpara p{
+    margin-top: -10px;
+    font-family:'Times New Roman', Times, serif;
+}
+/* womens 3----------------------------------------------------------------------------------------- */
+#wch3{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 80px;
+}
+#wch3 img{
+    height: 300px;
+    width: 200px;
+    margin-left: 40px;
+}
+#wch3 h3{
+    word-break: break-all;
+    width: 150px;
+    margin-left: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#wch3 h5{
+    color: #007185;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+#wch3 h4{
+    height: 20px;
+    width: 80px;
+    border: 1px solid black;
+    padding-left:  20px;
+    background-color: #7fda69;
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 4px;
+    /* color: #ffff; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: "Amazon Ember",Arial,sans-serif;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+#wch3 h2{
+    margin-left: 45px;
+    margin-top: -10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#wch3 h6{
+    margin-left: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -10px;
+}
+#wch3 button{
+    margin-left: 20px;
+    width: 200px;
+    height: 30px;
+    border: none;
+    /* border: 1px solid black; */
+    border-radius: 20px;
+    background-color: #fad02c;
+}
+
+/* women-4----------------------------------------------------------------------------------------------- */
+
+#wch4{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 80px;
+}
+#wch4 img{
+    height: 300px;
+    width: 200px;
+    margin-left: 40px;
+}
+#wch4 h3{
+    word-break: break-all;
+    width: 150px;
+    margin-left: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#wch4 h5{
+    color: #007185;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+#wch4 h4{
+    height: 20px;
+    width: 80px;
+    border: 1px solid black;
+    padding-left:  20px;
+    background-color: #7fda69;
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 4px;
+    /* color: #ffff; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: "Amazon Ember",Arial,sans-serif;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+#wch4 h2{
+    margin-left: 45px;
+    margin-top: -10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#wch4 h6{
+    margin-left: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -10px;
+}
+#wch4 button{
+    margin-left: 20px;
+    width: 200px;
+    height: 30px;
+    border: none;
+    /* border: 1px solid black; */
+    border-radius: 20px;
+    background-color: #fad02c;
+}
+/* women-5---------------------------------------------------------------------------------------------- */
+
+#wch5{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 80px;
+}
+#wch5 img{
+    height: 200px;
+    width: 200px;
+    margin-left: 40px;
+}
+#wch5 h3{
+    word-break: break-all;
+    width: 150px;
+    margin-left: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#wch5 h5{
+    color: #007185;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+#wch5 h4{
+    height: 20px;
+    width: 80px;
+    border: 1px solid black;
+    padding-left:  20px;
+    background-color: #7fda69;
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 4px;
+    /* color: #ffff; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: "Amazon Ember",Arial,sans-serif;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+#wch5 h2{
+    margin-left: 45px;
+    margin-top: -10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#wch5 h6{
+    margin-left: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -10px;
+}
+#wch5 button{
+    margin-left: 20px;
+    width: 200px;
+    height: 30px;
+    border: none;
+    /* border: 1px solid black; */
+    border-radius: 20px;
+    background-color: #fad02c;
+}
+
+/* womens second advertisement--------------------------------------------------------------------------- */
+
+#add2{
+    display: flex;
+    box-shadow: 0px 3px 0px 0px gray;
+}
+video{
+    height: 350px;
+    width: 500px;
+    margin-left: 250px;
+    padding-bottom: 10px;
+}
+#add2img img{
+    height: 250px;
+    width: 200px;
+    margin-top: 60px;
+    margin-left: 10px;
+}
+#add2para h3{
+    word-break: keep-all;
+    width: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+}
+#add2para{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#add2para h4{
+margin-top: -10px;
+}
+#add2para h2{
+margin-top: -10px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#add2para h5{
+margin-top: -10px;
+}
+#add2para p{
+    margin-top: -10px;
+    font-family:'Times New Roman', Times, serif;
+}
+/* ending starts------------------------------------------------------------------------------------------ */
+
+#end{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0px;
+    background-color: #233142;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+#end h5{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+#end2{
+    margin-right: -260px;
+    color: white;
+}
+#end2 h3{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#end1{
+    margin-right: -280px;
+    color: white;
+}
+#end1 h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#end4{
+    margin-left: -240px;
+    color: white;
+}
+#end4 h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#end3{
+    color: white;
+}
+#end3 h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#backtop{
+    margin-top: 100px;
+    background-color: #3e4a61;
+    height: 50px;
+    text-align: center;
+}
+#backtop h4{
+    padding-top: 15px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#backtop:hover{
+    background-color: #455d7a;
+}
+
+/* down amazon----------------------------------------------------------------------------------------- */
+
+#damz{
+    height: 100px;
+    margin-left: 44%;
+}
+#acontact{
+    display: flex;
+    margin-left: 20%;
+    margin-top: -40px;
+}
+
+#acontact h5{
+    padding-left: 15px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#contact{
+    background-color: black;
+}
+
+#cond{
+    display: flex;
+    margin-left: 37%;
+}
+#cond h5{
+color: white;
+padding-left: 25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#cond1 h5{
+    color: white;
+    padding-left: 10px;
+  padding-bottom: 30px;
+  margin-top: -10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#cond1{
+    margin-left: 43%;
+    background-color: black;
+    /* padding-top: -30px; */
+}
+

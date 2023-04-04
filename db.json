@@ -1,0 +1,1610 @@
+{
+   "categories":[
+      {
+        "image": "https://images.unsplash.com/photo-1495105787522-5334e3ffa0ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2xvdGhpbmclMjBiYWNrZ3JvdW5kJTIwYmx1ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Clothing"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Zm9vdHdlYXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Footwear"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8d2F0Y2h8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Watches"
+      },
+      {
+        "image": "https://media.istockphoto.com/id/1354385636/photo/unrecognizable-man-with-bag-and-suitcase-walking-in-airport-rear-view.jpg?b=1&s=170667a&w=0&k=20&c=U-lutKFN46s5_TUzqm_bYhm0FExeUSIaX7ywaQePxCY=",
+        "name": "Bags & luggage"
+      }
+   ],
+   "childone":[
+    {
+      "image": "https://images.unsplash.com/photo-1642018929698-8d86f43ffcd5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpciUyMGNvbmRpdGlvbmVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Air conditioners"
+    },
+
+    {
+      "image": "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZGdlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Refrigerators"
+    },
+    {
+      "image": "https://media.istockphoto.com/id/1365616064/photo/plate-with-slice-of-pizza-in-microwave-oven.jpg?b=1&s=170667a&w=0&k=20&c=Wf7IBumzqt4XXbTPiC3PRsS8wagBXE1ybb8De3Xs9u8=",
+      "name": "Microwaves"
+    },
+    {
+      "image": "https://media.istockphoto.com/id/1341417452/photo/stylish-room-interior-with-modern-washing-machine.jpg?b=1&s=170667a&w=0&k=20&c=mOxbrdj6Bjvw2eHWpY2ITI_ACO2Hjjuk0OTpjT9KUdQ=",
+      "name": "Washing machines"
+    }
+   ],
+   "childtwo":[
+      {
+        "image": "https://images.unsplash.com/photo-1610030469245-ab65c4583802?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHNhcmVlJTIwbW9kZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Saree"
+      },
+      {
+        "image": "https://media.istockphoto.com/id/507905570/photo/fashionable-fox-looking-away.jpg?b=1&s=170667a&w=0&k=20&c=vs3_4MhvzSUwSclcQKyPL3V-4vHiyM08ZxLG2NW_uBM=",
+        "name": "Tops"
+      },
+      {
+        "image": "https://media.istockphoto.com/id/619412092/photo/new-pair-of-stylish-brown-high-heels-with-cork-soles.jpg?b=1&s=170667a&w=0&k=20&c=a35KzEGq3wEiY6IT7t66R-BC88wBoc5br6EitzehL4g=",
+        "name": "Sandals"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1655693487557-be52fd36955c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHdhdGNoZXMlMjBmb3IlMjB3b21lbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Women's Wtches"
+      }
+   ],
+
+   "childthree":[
+    {
+      "image": "https://images.unsplash.com/photo-1583202075376-837d5ff1bf0f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGZsaWdodHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "name": " flight booking"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1601999007938-f584b47324ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHRyYWlufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": " gateway charges"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YnVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": " on bus tickets"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1610244767159-0f9797ff1926?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bHVnZ2FnZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Products for your"
+    }
+   ],
+
+   "Todaydeals": [
+    {
+      "image": "https://images.unsplash.com/photo-1665576592927-4d4760f22c49?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjBpcGhvbmUlMjAxMyUyMHBybyUyMG1heHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "offer": "Up to 17% off",
+      "name": "Apple iphone 13 pro max"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/31qrsfYb7+L._AC_SY200_.jpg",
+      "offer": "Up to 76% off",
+      "name": "Zebronics airpodas deals"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/31BMd11KciL._AC_SY200_.jpg",
+      "offer": "Up to 78% off",
+      "name":  "Boat Airdopes"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/31G1NouVxaL._AC_SY200_.jpg",
+      "offer": "Up to 85% off",
+      "name": "Ptrone Airpods"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/31Ri-FAMBUL._AC_SY200_.jpg",
+      "offer": "Up to 22% off",
+      "name": "Apple Airpods starting Rs.10999"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/41ebGVIokuL._AC_SY200_.jpg",
+      "offer": "Up to 28% off",
+      "name": "IQOO Z7 5G | Starting 17499"
+    }
+   ],
+      
+  
+
+   "bestsellersone": [
+    {
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71UlEDZPiCL._AC_UL450_SR450,320_.jpg",
+        "para": "Boldfit Shoe Bag for Travel Storage, Travel Organizer for Women & men travel accessories",
+        "rating": "⭐⭐⭐⭐ 514",
+        "money": "$3.00"
+    },
+    {
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/81KEKEDFUcL._AC_UL450_SR450,320_.jpg",
+        "para": "American Tourister 32 Ltrs Black Casual Backpack (AMT FIZZ SCH BAG 02 - BLACK)",
+        "rating": "⭐⭐⭐⭐ 52,237",
+        "money": "$ 20.00"
+    },
+    {
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61ofVvpW2ZL._AC_UL450_SR450,320_.jpg",
+        "para": "GLUN Bolt Electronic Portable Fishing Hook Type Digital LED Screen Luggage Weighing",
+        "rating": "⭐⭐⭐⭐ 18,783",
+        "money": "$ 5.00"
+    },
+    {
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/81CaE6dXNFL._AC_UL450_SR450,320_.jpg",
+        "para": "WildHorn Brown RFID Blocking Leather Wallet for Men I Ultra Strong Stitching",
+        "rating": "⭐⭐⭐ 17,934",
+        "money": "$ 6.00"
+    },
+    {
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/8118Q57l51L._AC_UL450_SR450,320_.jpg",
+        "para": "Trajectory Supercomfy Neck Pillow Rest Cushion for Travel in Flight car Train Airplane.",
+        "rating": "⭐⭐⭐⭐ 40,691",
+        "money": "$ 10.00"
+
+    }
+],
+
+
+
+"bestsellerstwo": [
+  {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51EKlBp58+L._AC_UL450_SR450,320_.jpg",
+      "para": "Popular Bollywood Duets.",
+      "rating": "⭐⭐⭐ 48",
+      "money": "$2.00"
+  },
+  {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81HQ-uYxJyL._AC_UL450_SR450,320_.jpg",
+      "para": "Vinayagar Devotional Songs Sanskrit",
+      "rating": "⭐⭐⭐⭐⭐ 5",
+      "money": "$ 10.00"
+  },
+  {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/7163tf7rbLL._AC_UL450_SR450,320_.jpg",
+      "para": "Fallen Sung by Evanescence",
+      "rating": "⭐⭐⭐⭐ 3,503",
+      "money": "$ 19.00"
+  },
+  {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/41KtM646HFL._AC_UL450_SR450,320_.jpg",
+      "para": "The Open Door by Evanescence",
+      "rating": "⭐⭐⭐⭐ 1,134",
+      "money": "$ 16.00"
+  },
+  {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71YVWuvqqOL._AC_UL450_SR450,320_.jpg",
+      "para": "Above the Weeping World.",
+      "rating": "⭐⭐⭐⭐⭐ 191",
+      "money": "$ 7.00"
+
+  }
+],
+
+
+
+"bestsellersthree": [
+  {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71eVAHH3tsL._AC_UL450_SR450,320_.jpg",
+      "para": "boAt Type C A325 Tangle-free, Sturdy Type C Cable.",
+      "rating": "⭐⭐⭐⭐ 14,649",
+      "money": "$3.00"
+  },
+  {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61DjwgS4cbL._AC_UL450_SR450,320_.jpg",
+      "para": "SanDisk Cruzer Blade 32GB USB Flash Drive",
+      "rating": "⭐⭐⭐⭐ 99,975",
+      "money": "$ 8.00"
+  },
+  {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61zroMjd9FL._AC_UL450_SR450,320_.jpg",
+      "para": "STRIFF Mpad Mouse Mat 230X190X3mm Gaming Mouse Pad.",
+      "rating": "⭐⭐⭐⭐ 1,703",
+      "money": "$ 2.00"
+  },
+  {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61oF8gHU9EL._AC_UL450_SR450,320_.jpg",
+      "para": "ZEBRONICS SD13 128GB SSD,Ultra Low Power Consumption.",
+      "rating": "⭐⭐⭐⭐ 384",
+      "money": "$ 18.00"
+  },
+  {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/415yl0HeDQL._AC_UL450_SR450,320_.jpg",
+      "para": "Dell USB Wireless Keyboard and Mouse Set- KM3322W.",
+      "rating": "⭐⭐⭐⭐⭐ 34,891",
+      "money": "$ 25.00"
+
+  }
+],
+
+
+
+"bestsellersfour": [
+  {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/41UYenF+lnL._AC_UL450_SR450,320_.jpg",
+      "para": "Boya ByM1 Auxiliary Omnidirectional Lavalier Condenser Microphone with 20ft",
+      "rating": "⭐⭐⭐⭐ 70,489",
+      "money": "$9.00"
+  },
+  {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71rEeRq9oyL._AC_UL450_SR450,320_.jpg",
+      "para": "Juarez JRZ250 One Handed Trigger Guitar Metal Capo Quick Change For Ukulele",
+      "rating": "⭐⭐⭐⭐ 13,435",
+      "money": "$ 5.00"
+  },
+  {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71y1TJbygLL._AC_UL450_SR450,320_.jpg",
+      "para": "Juârez Acoustic Guitar, 38 Inch Cutaway, 038C with Bag, Strings, Pick and Strap.",
+      "rating": "⭐⭐⭐⭐ 18,860",
+      "money": "$ 28.00"
+  },
+  {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51AdYDbV1HL._AC_UL450_SR450,320_.jpg",
+      "para": "Juarez JRZ100 Guitar Wall Hanger/Mount With Fittings/Accessories, Black.",
+      "rating": "⭐⭐⭐⭐ 13,008",
+      "money": "$ 6.00"
+  },
+  {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71qOhp8kcSL._AC_UL450_SR450,320_.jpg",
+      "para": "GRENARO Wireless Mic with Charging Case, Noise Reduction Lapel Mic.",
+      "rating": "⭐⭐⭐⭐ 1,291",
+      "money": "$ 40.00"
+
+  }
+],
+
+
+"kitchenneeds": [
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/Halo/NOcallouts/Unrec/HnD._SS300_QL85_.jpg",
+    "name": "Decor"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/Halo/NOcallouts/Unrec/SA._SS300_QL85_.jpg",
+    "name": "Appliances"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/Halo/NOcallouts/Unrec/Sports._SS300_QL85_.jpg",
+    "name": "Fitness"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/Halo/NOcallouts/Unrec/Auto._SS300_QL85_.jpg",
+    "name": "Auto Accessories"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/Halo/NOcallouts/Unrec/Cookware._SS300_QL85_.jpg",
+    "name": "Kitchenware"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/Halo/NOcallouts/Unrec/HI._SS300_QL85_.jpg",
+    "name": "Home Improvements"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/Halo/NOcallouts/Unrec/BISS_2._SS300_QL85_.jpg",
+    "name": "Tools"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/Halo/NOcallouts/Unrec/LnG._SS300_QL85_.jpg",
+    "name": "Outdoors"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/Halo/NOcallouts/Unrec/Furni._SS300_QL85_.jpg",
+    "name": "Furniture"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/Halo/NOcallouts/Rec/PB._SS300_QL85_.jpg",
+    "name": "Amazon Brands"
+  }
+],
+
+
+"homeneeds": [
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Bedroom/Fan._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Bedroom/Bedsheets._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Bedroom/Clocks._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Bedroom/Curtains._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Bedroom/Led_bulbs._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/tiles_room/Tiles_3._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Bedroom/Doormats._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Bedroom/Photoframes._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Bedroom/Mosquito_racket._SS400_QL85_.jpg"
+  }
+],
+
+
+
+"homeneedstwo": [
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Kitchen/Cookware_sets._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Kitchen/Storage_containers._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Kitchen/Lunch_boxes._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Kitchen/Kitchen_tools._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Kitchen/Water_bottles._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Kitchen/Gas_stoves._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/tiles_room/Tiles_5._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Kitchen/drying_racks._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Kitchen/Cleaning_essentials._SS400_QL85_.jpg"
+  }
+],
+
+
+
+"homeneedsthree": [
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UNRec/Bathroom/water_heater._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UNRec/Bathroom/towels__napkins._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UNRec/Bathroom/bath_mirror__vanities._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UNRec/Bathroom/hand_shower._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UNRec/Bathroom/bathroom_fixtures._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UNRec/Bathroom/storage_organizers._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UNRec/Bathroom/bathroom_sinks._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UNRec/Bathroom/bath_mat._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UNRec/Bathroom/bathroom_accessories._SS400_QL85_.jpg"
+  }
+],
+
+
+
+"homeneedsfour": [
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Fitness/fitness_accessories._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/Rec/fitness/dumbbebellsunrec._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Fitness/yoga._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Fitness/badminton._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Fitness/Football._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Fitness/cricket._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Fitness/towels__napkins._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Fitness/water_bottle._SS400_QL85_.jpg"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/OHL/BAU/HnK/Eng/UnRec/Fitness/motivational_wallpapers._SS400_QL85_.jpg"
+  }
+],
+
+
+"mostlovedbrands": [
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/51xRLeX-gtL._AC_SX184_.jpg",
+    "para": "Ajanta Abstract Metal Quartz Wall Clock.",
+    "name": "Ajanta",
+    "price": "₹465",
+    "rating": "⭐⭐⭐⭐ 59,696"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/21G5dyaJdGL._AC_SX184_.jpg",
+    "para": "Signoraware Coconut Opener.",
+    "name": "Signoraware",
+    "price": "₹95",
+    "rating": "⭐⭐⭐⭐ 9,006"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/21qojQDoKWL._AC_SX184_.jpg",
+    "para": "Bajaj Frore 1200 mm Ceiling Fan.",
+    "name": "Bajaj",
+    "price": "₹1,399",
+    "rating": "⭐⭐⭐⭐ 19,385"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/31hmQqq7KsL._AC_SX184_.jpg",
+    "para": "Kuber Industries Nylon Mesh Basket",
+    "name": "Kuber Industries",
+    "price": "₹99",
+    "rating": "⭐⭐⭐ 4,345"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/41YiLfo76VL._AC_SX184_.jpg",
+    "para": "Butterfly Premium Vegetable Chopper 900",
+    "name": "Butterfly",
+    "price": "₹345",
+    "rating": "⭐⭐⭐⭐ 10,945"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/413sK6yat-L._AC_SX184_.jpg",
+    "para": "Lifelong 500-Watt Mixer Grinder with 3 Jars",
+    "name": "Lifelong",
+    "price": "₹1,249",
+    "rating": "⭐⭐⭐⭐ 45,873"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/41cxgOxlbYL._AC_SX184_.jpg",
+    "para": "Butterfly EKN 1.5-Litre Electric Kettle",
+    "name": "Butterfly",
+    "price": "₹579",
+    "rating": "⭐⭐⭐⭐ 36,539"
+  }
+],
+
+
+"smartphones": [
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img23/Wireless/ssserene/D67046473_IN_WL_CategoryPage_Weblab_._CB594081297_.jpg",
+    "name": "Shop Now"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img21/Wireless/vinambia/narzomarch24/D67046473_IN_WL_CategoryPage_Weblab__1._CB594504703_.jpg",
+    "name": "Shop Now"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img22/Wireless/Simonti/cat/page/Bestseller/Kiosk/Midrange/21stMarch/samsung._CB594269451_.jpg",
+    "name": "Shop Now"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img22/Wireless/Simonti/cat/page/Bestseller/Kiosk/Midrange/21stMarch/oppo._CB594269451_.jpg",
+    "name": "Shop Now"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/G/31/img22/Wireless/Simonti/cat/page/Bestseller/Kiosk/Midrange/21stMarch/iQoo._CB594269451_.jpg",
+    "name": "Shop Now"
+  }
+],
+
+
+"mobilesone":[
+  {
+    "image": "https://m.media-amazon.com/images/I/71AvQd3VzqL._AC_UL480_QL65_.jpg",
+    "name": "OnePlus Nord CE 2 Lite 5G (Blue Tide, 6GB RAM, 128GB Storage)",
+    "rating": "⭐⭐⭐⭐ (1,15,134)",
+    "money": "₹18,999",
+    "delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61ahn9N38zL._AC_UL480_QL65_.jpg",
+    "name": "OnePlus Nord 2T 5G (Jade Fog, 8GB RAM, 128GB Storage)",
+    "rating": "⭐⭐⭐⭐ (21,869)",
+    "money": "₹18,999",
+    "delivery": "FREE Delivery by Amazon"
+    
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/611jxZCY1bL._AC_UL480_QL65_.jpg",
+    "name": "iQOO Z7 5G by vivo (Norway Blue, 6GB RAM, 128GB Storage) |",
+    "rating": "⭐⭐⭐⭐ (18,369)",
+    "money": "₹18,999",
+    "delivery": "FREE Delivery by Amazon"
+  }
+],
+
+
+
+"mobilestwo":[
+  {
+    "image": "https://m.media-amazon.com/images/I/81IPrkMDqVL._AC_UL480_QL65_.jpg",
+    "name": "realme narzo 50A Prime (Flash Black, 4GB RAM+64GB Storage)",
+    "rating": "⭐⭐⭐⭐ (5,084)",
+    "money": "₹9,299",
+    "delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81Te0dZU7nL._AC_UL480_QL65_.jpg",
+    "name": "realme narzo 50i Prime (Dark Blue 3 GB RAM +32 GB Storage) ",
+    "rating": "⭐⭐⭐⭐ (2,829)",
+    "money": "₹6,299",
+    "delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61vtLhO6fDL._AC_UL480_QL65_.jpg",
+    "name": "realme narzo 50i Prime (Dark Blue 3 GB RAM +32 GB Storage) ",
+    "rating": "⭐⭐⭐⭐ (62,798)",
+    "money": "₹1,599",
+    "delivery": "FREE Delivery by Amazon"
+  }
+],
+
+
+
+"mobilesthree":[
+  {
+    "image": "https://m.media-amazon.com/images/I/71V--WZVUIL._AC_UL480_QL65_.jpg",
+    "name": "OnePlus Nord CE 2 Lite 5G (Black Dusk, 6GB RAM, 128GB Storage)",
+    "rating": "⭐⭐⭐⭐ (1,15,104)",
+    "money": "₹18,999",
+    "delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81-fFXQdPTL._AC_UL480_QL65_.jpg",
+    "name": "Samsung Galaxy M13 (Aqua Green, 4GB, 64GB Storage) ",
+    "rating": "⭐⭐⭐⭐ (23,326)",
+    "money": "₹10,999",
+    "delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/611jxZCY1bL._AC_UL480_QL65_.jpg",
+    "name": "iQOO Z7 5G by vivo (Norway Blue, 8GB RAM, 128GB Storage)",
+    "rating": "⭐⭐⭐⭐ (18)",
+    "money": "₹19,999",
+    "delivery": "FREE Delivery by Amazon"
+  }
+],
+
+"mensrequiredone": [
+  {
+    "image": "https://m.media-amazon.com/images/I/51suVV+3IIL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "KNYA Med Men's Lab Coat | Poly Viscose Long Sleeves Medical Apron ",
+    "rating": "⭐⭐⭐ (377)",
+    "deal": "Limited time deal",
+    "money":"₹689",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81NFMvMUhnL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Supersox Men's Office Wear Compact Combed Cotton Regular Length Black",
+    "rating": "⭐⭐⭐⭐ (1,904)",
+    "deal": "Limited time deal",
+    "money":"₹263",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/91ZKv-rZdHL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Fossil Leather Men's Wallet| Brown color with more combinations",
+    "rating": "⭐⭐⭐⭐ (4,254)",
+    "deal": "Limited time deal",
+    "money":"₹3,995",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71L2SUmy3fL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Chromozome Men Shorts | Blue,Black,Green,different colors",
+    "rating": "⭐⭐⭐⭐ (2,345)",
+    "deal": "Limited time deal",
+    "money":"₹316",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71GkGHg3KnL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "The Man Company Black EDT Perfume For Men - 50ml ",
+    "rating": "⭐⭐⭐ (3,185)",
+    "deal": "Limited time deal",
+    "money":"₹402",
+    "Delivery": "FREE Delivery by Amazon"
+  }
+
+],
+
+
+"mensrequiredtwo": [
+  {
+    "image": "https://m.media-amazon.com/images/I/61n4jyp69IL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Philips BT1232/15 Skin-Friendly Beard Trimmer - DuraPower",
+    "rating": "⭐⭐⭐⭐ (51,375)",
+    "deal": "Limited time deal",
+    "money":"₹746",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/51jRFIgQo3L._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Garnier Men Brightening Moisturizer And Anti-Pimples",
+    "rating": "⭐⭐⭐⭐ (5,094)",
+    "deal": "Limited time deal",
+    "money":"₹123",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61+THk53YIL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Fastrack Men Square Black Sunglasses-Pack of 1",
+    "rating": "⭐⭐⭐⭐ (16,279)",
+    "deal": "Limited time deal",
+    "money":"₹449",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61utX8kBDlL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "ASIAN Men's Wonder-13 Sports Running Shoes",
+    "rating": "⭐⭐⭐⭐ (86,883)",
+    "deal": "Limited time deal",
+    "money":"₹524",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81ZsCB8XqpL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Urban Forest Oliver Redwood RFID Blocking Leather Wallet for Men",
+    "rating": "⭐⭐⭐⭐ (40,302)",
+    "deal": "Limited time deal",
+    "money":"₹499",
+    "Delivery": "FREE Delivery by Amazon"
+  }
+
+],
+
+
+
+"mensrequiredthree": [
+  {
+    "image": "https://m.media-amazon.com/images/I/91kdr6P6xoL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Supersox Men's Half Terry Cotton Cushion Special Design Sneaker",
+    "rating": "⭐⭐⭐⭐ (6,083)",
+    "deal": "Limited time deal",
+    "money":"₹249",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/91OpIQm+zIL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Supersox Men's Cotton Socks, Men's Running Socks Low Cut",
+    "rating": "⭐⭐⭐⭐ (54)",
+    "deal": "Limited time deal",
+    "money":"₹249",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61+s3Kvt4jL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Zemic Umbrella Umbrella for Men, Umberallas for Rain Big Size",
+    "rating": "⭐⭐⭐⭐⭐ (279)",
+    "deal": "Limited time deal",
+    "money":"₹694",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61utX8kBDlL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "ASIAN Men's Wonder-13 Sports Running Shoes",
+    "rating": "⭐⭐⭐⭐ (86,883)",
+    "deal": "Limited time deal",
+    "money":"₹524",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/51kHe37NxdL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "U.S. POLO ASSN. Pure Cotton Brushed Elastic I108 Boxers - Pack of 1",
+    "rating": "⭐⭐⭐⭐ (9,911)",
+    "deal": "Limited time deal",
+    "money":"₹649",
+    "Delivery": "FREE Delivery by Amazon"
+  }
+
+],
+
+
+"mensrequiredfour": [
+  {
+    "image": "https://m.media-amazon.com/images/I/81MfjxIbRsL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Jockey 8820 Men's Super Combed Cotton Round Neck Sleeveless ",
+    "rating": "⭐⭐⭐⭐ (4,293)",
+    "deal": "Limited time deal",
+    "money":"₹657",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71f9x1YGVuL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "CREATURE Reversible Pu-Leather Formal Belt For Men",
+    "rating": "⭐⭐⭐⭐ (13,926)",
+    "deal": "Limited time deal",
+    "money":"₹279",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61FXtjMCUWL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Nivea Men Body Wash, Pure Impact With Purifying Micro Particles",
+    "rating": "⭐⭐⭐⭐⭐ (13,459)",
+    "deal": "Limited time deal",
+    "money":"₹265",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/91tP5mzd9QL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "URBAN FOREST Eddy RFID Blocking Black",
+    "rating": "⭐⭐⭐⭐ (4,983)",
+    "deal": "Limited time deal",
+    "money":"₹449",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/31Xh1Nye5rL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "The Man Company Blanc Perfume for Men - 120ml ",
+    "rating": "⭐⭐⭐⭐ (10,152)",
+    "deal": "Limited time deal",
+    "money":"₹271",
+    "Delivery": "FREE Delivery by Amazon"
+  }
+
+],
+
+"mensrequiredfive": [
+  {
+    "image": "https://m.media-amazon.com/images/I/71SYvtX2YmL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "RIGOHILL Doger Olive Green Mens Leather Wallet ",
+    "rating": "⭐⭐⭐⭐ (4,024)",
+    "deal": "Limited time deal",
+    "money":"₹479",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81S-iDVmtIL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Jockey Men's Flat Front Boxer Shorts (Pack of 2)",
+    "rating": "⭐⭐⭐⭐ (10,096)",
+    "deal": "Limited time deal",
+    "money":"₹783",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61LDLIG+XWL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "The Man Company Patchouli & Sea Salt Perfumed Body Wash for Men –200 ml",
+    "rating": "⭐⭐⭐⭐⭐ (659)",
+    "deal": "Limited time deal",
+    "money":"₹199",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71Jq0-QBVaL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Sparx Men's Ss9007g Flat Sandal",
+    "rating": "⭐⭐⭐⭐ (923)",
+    "deal": "Limited time deal",
+    "money":"₹549",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71cnpqenYaL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Shining Diva Fashion Genuine Leather Bracelet Wraps ",
+    "rating": "⭐⭐⭐⭐ (2,322)",
+    "deal": "Limited time deal",
+    "money":"₹249",
+    "Delivery": "FREE Delivery by Amazon"
+  }
+
+],
+
+"mensrequiredsix": [
+  {
+    "image": "https://m.media-amazon.com/images/I/81d37fLAwUL._AC_UL480_QL65_.jpg",
+    "name": "Amazon Brand - Symbol Men's Slim Fit Formal Trousers",
+    "rating": "⭐⭐⭐⭐ (12,822)",
+    "deal": "Limited time deal",
+    "money":"₹793",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/31qjEu4scsL._AC_UL480_QL65_.jpg",
+    "name": "Van Heusen Men Boxer Briefs - 100% Combed Cotton ",
+    "rating": "⭐⭐⭐⭐ (10,312)",
+    "deal": "Limited time deal",
+    "money":"₹623",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61Llo7Jl59L._AC_UL480_QL65_.jpg",
+    "name": "U.S. POLO ASSN. Mens Printed Cotton Mid Rise Boxers - Pack of 1",
+    "rating": "⭐⭐⭐⭐⭐ (9)",
+    "deal": "Limited time deal",
+    "money":"₹674",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61lin8VdH-L._AC_UL480_QL65_.jpg",
+    "name": "U.S. POLO ASSN. Men Boxer Shorts",
+    "rating": "⭐⭐⭐⭐ (923)",
+    "deal": "Limited time deal",
+    "money":"₹539",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61wwA+fCOZL._AC_UL480_QL65_.jpg",
+    "name": "THE ARCHER Men's Cotton Multicolour Printed Vest",
+    "rating": "⭐⭐⭐⭐ (2,939)",
+    "deal": "Limited time deal",
+    "money":"₹449",
+    "Delivery": "FREE Delivery by Amazon"
+  }
+
+],
+
+"mensrequiredseven": [
+  {
+    "image": "https://m.media-amazon.com/images/I/61mAXU25qlL._AC_UL480_QL65_.jpg",
+    "name": "Hygear Mens Mens Shoes Sneaker",
+    "rating": "⭐⭐⭐⭐ (42)",
+    "deal": "Limited time deal",
+    "money":"₹599",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61gT2esx9OL._AC_UL480_QL65_.jpg",
+    "name": "HYGEAR mens Mens Casual Slider Slipper",
+    "rating": "⭐⭐⭐⭐ (12)",
+    "deal": "Limited time deal",
+    "money":"₹439",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71oZW+yhxPL._AC_UL480_QL65_.jpg",
+    "name": "Centrino Mens 20220-2 Uniform Dress Shoe",
+    "rating": "⭐⭐⭐⭐⭐ (7)",
+    "deal": "Limited time deal",
+    "money":"₹712",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/612owf5c5YL._AC_UL480_QL65_.jpg",
+    "name": "Centrino Mens 20212-2 Uniform Dress Shoe",
+    "rating": "⭐⭐⭐⭐ (9)",
+    "deal": "Limited time deal",
+    "money":"₹679",
+    "Delivery": "FREE Delivery by Amazon"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71LqDVL3RsL._AC_UL480_QL65_.jpg",
+    "name": "Centrino Mens 20219-2 Uniform Dress Shoe",
+    "rating": "⭐⭐⭐⭐ (3)",
+    "deal": "Limited time deal",
+    "money":"₹664",
+    "Delivery": "FREE Delivery by Amazon"
+  }
+
+],
+
+"womenone": [
+  {
+    "image": "https://m.media-amazon.com/images/I/41qQ4-9eTML._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Dilemma Women's Polycotton Printed Night Suit Pack of 1",
+    "rating": "⭐⭐⭐⭐ (15)",
+    "deal": "Save 15%",
+    "money":"₹899",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71riNPa5CmL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "DORIYA Solid Rayon Womens Casual Regular Fit Shirt Tops",
+    "rating": "⭐⭐⭐ (54)",
+    "deal": "Save 12%",
+    "money":"₹469",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61u0MGRBaUL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Bhochi Round Neck dobbyCotton Lycra Stretchable Elbow Sleeve Readymade",
+    "rating": "⭐⭐⭐ (36)",
+    "deal": "Save 3%",
+    "money":"₹399",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/41i7nWZbjDL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Women's Premium Chudidar Leggings (Purple,Green,Black,White,Blue)",
+    "rating": "⭐⭐⭐⭐ (69)",
+    "deal": "Save 19%",
+    "money":"₹999",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61WLgu0Y-9L._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Carmesi Facial Razor for Women  Instant & Painless Hair Removal ",
+    "rating": "⭐⭐⭐⭐ (9,994)",
+    "deal": "Save 26%",
+    "money":"₹199",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  }
+
+],
+
+
+"womentwo": [
+  {
+    "image": "https://m.media-amazon.com/images/I/81jnv+iz+ZL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "LOUIS DEVIN LD-L144-BLU-CH Mesh Steel Chain Analog Wrist Watch for Women",
+    "rating": "⭐⭐⭐⭐ (5,308)",
+    "deal": "Save 5%",
+    "money":"₹299",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81Xdo8YO4mS._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Lavie Women's Beech Satchel Bag | Ladies Purse Handbag",
+    "rating": "⭐⭐⭐⭐ (3,806)",
+    "deal": "Save 17%",
+    "money":"₹1,469",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/510xFYIf2SL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Sonata Analog Blue Dial Women's Watch NM8989PP04 / NL8989PP04",
+    "rating": "⭐⭐⭐⭐ (6,638)",
+    "deal": "Save 31%",
+    "money":"₹599",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/710dnChlpcS._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "YouBella Jewellery Bohemian Multi-Color Earrings for Girls and Women",
+    "rating": "⭐⭐⭐⭐ (7,369)",
+    "deal": "Save 9%",
+    "money":"₹199",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81oeOXE7B+L._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Jockey Women's Tailored Thermal Leggings",
+    "rating": "⭐⭐⭐⭐ (4,150)",
+    "deal": "Save 46%",
+    "money":"₹635",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  }
+
+],
+
+"womenthree": [
+  {
+    "image": "https://m.media-amazon.com/images/I/717BChXEX7S._UY695_.jpg",
+    "name": "Lavie Women's Betula Medium Tote Bag | Ladies Purse Handbag",
+    "rating": "⭐⭐⭐⭐ (18,634)",
+    "deal": "Save 75%",
+    "money":"₹839",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/51qUWP4oliL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Women's Horlicks Health and Nutrition Drink, 400 gm",
+    "rating": "⭐⭐⭐⭐ (9,518)",
+    "deal": "Save 30%",
+    "money":"₹369",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/618S-oU-QnL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Sanfe Glide Reusable Face & Eyebrow Razor For Women",
+    "rating": "⭐⭐⭐⭐ (3,498)",
+    "deal": "Save 40%",
+    "money":"₹178",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71z8TO1ccTL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "INOVERA Faux Leather Tri-fold Fashion Card Coin Small Clutch Wallet",
+    "rating": "⭐⭐⭐⭐ (1,969)",
+    "deal": "Save 60%",
+    "money":"₹399",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81UaMFQR6kL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Sukkhi Adorable Gold Plated Pearl Choker Necklace Set for Women",
+    "rating": "⭐⭐⭐⭐ (7,149)",
+    "deal": "Save 90%",
+    "money":"₹160",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  }
+
+],
+
+
+"womenfour": [
+  {
+    "image": "https://m.media-amazon.com/images/I/71PISFLHuBL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Lymio Dresses for Women Western Dresses for Women",
+    "rating": "⭐⭐⭐⭐⭐ (18)",
+    "deal": "Save 85%",
+    "money":"₹449",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/811kto5K9OL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "BATA womens Ortho Comfit Ladies Flip-Flops Daily use",
+    "rating": "⭐⭐⭐⭐ (7,248)",
+    "deal": "Save 17%",
+    "money":"₹249",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61N2WP2-2fL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Jockey Women's Super Combed Cotton Slim Fit Capri Pants",
+    "rating": "⭐⭐⭐⭐ (5,374)",
+    "deal": "Save 18%",
+    "money":"₹699",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/41y71UYlbtL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "GRECIILOOKS Women's Tie-Dye Joggers Stretchable Pants",
+    "rating": "⭐⭐⭐⭐ (607)",
+    "deal": "Save 84%",
+    "money":"₹369",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/51bIdbRf2YL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "SATYAM KRAFT Women's Metal Waist Belt (Pack Of 1 Pcs)",
+    "rating": "⭐⭐⭐⭐ (4,670)",
+    "deal": "Save 83%",
+    "money":"₹199",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  }
+
+],
+
+
+"womenfive": [
+  {
+    "image": "https://m.media-amazon.com/images/I/611I0f+I+MS._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "Fossil Analog Rose Gold Dial Women's Watch-BQ3181",
+    "rating": "⭐⭐⭐⭐⭐ (2,808)",
+    "deal": "Save 35%",
+    "money":"₹6,170",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/6149T8j5wmL._AC_UL480_FMwebp_QL65_.jpg",
+    "name": "BLINKIN Cotton Pyjamas for Women Combo Pack ",
+    "rating": "⭐⭐⭐⭐ (8,439)",
+    "deal": "Save 62%",
+    "money":"₹615",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://tse1.mm.bing.net/th?id=OIP._SxPJd55wVJdG6EwKsDwAAHaIq&pid=Api&P=0",
+    "name": "Scott International Women's Polos",
+    "rating": "⭐⭐⭐⭐ (111)",
+    "deal": "Save 66%",
+    "money":"₹512",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://tse4.mm.bing.net/th?id=OIP.5xNO3H0VAPEkpgm9CPEzegHaHa&pid=Api&P=0",
+    "name": "Classic Fit Cotton Capri Leggings for Women",
+    "rating": "⭐⭐⭐⭐ (662)",
+    "deal": "Save 24%",
+    "money":"₹499",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://tse3.mm.bing.net/th?id=OIP.-TZKaJBwY9iTDXgqKZ7MBAHaLH&pid=Api&P=0",
+    "name": "TWIN BIRDS Tailored Cut & Classic Fit",
+    "rating": "⭐⭐⭐⭐ (165)",
+    "deal": "Save 80%",
+    "money":"₹599",
+    "delivery": "FREE Delivery by Amazon",
+    "cart": "ADD TO CART"
+  }
+
+],
+
+
+"Newreleases": [
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/811R8Gdxd0L._AC_UL450_SR450,320_.jpg",
+    "name": "ADISA 31 Ltrs Casual Backpack School College Bag Pack (Navy Blue)",
+    "rating": "⭐⭐⭐⭐ (5)",
+    "money":"₹599",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/81F4YkbCa0L._AC_UL450_SR450,320_.jpg",
+    "name": "Boldfit Shoe Bag for Travel & Storage Travel Organizer for Women & Men ",
+    "rating": "⭐⭐⭐⭐ (199)",
+    "money":"₹299",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/715qPIqTslL._AC_UL450_SR450,320_.jpg",
+    "name": "MOKOBARA The Travel Pillow Pure Memory Foam Neck Pillow",
+    "rating": "⭐⭐⭐⭐⭐ (11)",
+    "money":"₹1,499",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/81HaVN1b2pL._AC_UL450_SR450,320_.jpg",
+    "name": "BEAUTY GIRLS BY HOTSHOT1521|School Bag|Tuition Bag|College",
+    "rating": "⭐⭐⭐⭐⭐ (12)",
+    "money":"₹889",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/71WOS3hwg7L._AC_UL450_SR450,320_.jpg",
+    "name": "uppercase JFK Medium Check-in Hardsided Polycarbonate",
+    "rating": "⭐⭐⭐⭐ (20)",
+    "money":"₹4,350",
+    "cart": "ADD TO CART"
+  }
+
+],
+
+
+"Newreleasestwo": [
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/81LtrvOKYbL._AC_UL450_SR450,320_.jpg",
+    "name": "God Of War Ragnarök | Standard Edition | PS4 Game",
+    "rating": "⭐⭐⭐⭐⭐ (539)",
+    "money":"₹3,599",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/617J+wsrrFL._AC_UL450_SR450,320_.jpg",
+    "name": "Stucii PlayStations-Plus-Deluxe 12 Month Membership ",
+    "rating": "⭐⭐⭐⭐⭐(124)",
+    "money":"₹2,499",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/81etAae966L._AC_UL450_SR450,320_.jpg",
+    "name": "Hogwarts Legacy | Standard Edition| PlayStation 5 (PS5)",
+    "rating": "⭐⭐⭐⭐⭐ (20)",
+    "money":"₹4,299",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/71+rGHo9xdL._AC_UL450_SR450,320_.jpg",
+    "name": "Stucii X- Box's Game Pass Ultimate+ E A Play (1 Month) (Read Before Buying)",
+    "rating": "⭐⭐⭐⭐⭐ (150)",
+    "money":"₹389",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/71gLcVNBxEL._AC_UL450_SR450,320_.jpg",
+    "name": "WWE 2K23 | Standard Edition | PlayStation 4",
+    "rating": "⭐ (2)",
+    "money":"₹4,390",
+    "cart": "ADD TO CART"
+  }
+
+],
+
+
+"Newreleasesthree": [
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/51OeLnP+IYL._AC_UL450_SR450,320_.jpg",
+    "name": " Dell Latitude E7270 6th Gen Intel Core i7 Thin & Light FHD Laptop",
+    "rating": "⭐⭐⭐ (14)",
+    "money":"₹24,399",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/61v6HokIL2L._AC_UL450_SR450,320_.jpg",
+    "name": " Noise ColorFit Icon Buzz Bluetooth Calling Smart Watch with Voice Assistance",
+    "rating": "⭐(1)",
+    "money":"₹1,699",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/61guJdOyjcL._AC_UL450_SR450,320_.jpg",
+    "name": "Fire-Boltt Gladiator 1.96 Biggest Display Smart Watch with Bluetooth Calling",
+    "rating": "⭐⭐⭐ (90)",
+    "money":"₹2,124",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/71ncRs6HzyL._AC_UL450_SR450,320_.jpg",
+    "name": "OnePlus 7T Glacier Blue, 8GB RAM, Fluid AMOLED Display,",
+    "rating": "⭐⭐⭐ (1)",
+    "money":"₹18,499",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/51jULzY76lL._AC_UL450_SR450,320_.jpg",
+    "name": "Certified Refurbished Fire TV Stick (2020) with Alexa Voice Remote",
+    "rating": "⭐⭐⭐⭐ (85)",
+    "money":"₹3,499",
+    "cart": "ADD TO CART"
+  }
+
+],
+
+
+"Newreleasesfour": [
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/61S53WbwdYL._AC_UL450_SR450,320_.jpg",
+    "name": "MAGBOT E1 Advance Handheld Wireless Singing Mike Multi-Function Bluetooth",
+    "rating": "⭐⭐⭐⭐⭐ (11)",
+    "money":"₹599",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/61QaOvGOD0L._AC_UL450_SR450,320_.jpg",
+    "name": "GRENARO Digital Display Wireless Microphone with Charging Case",
+    "rating": "⭐⭐⭐⭐(4)",
+    "money":"₹2,519",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/613xjQCHIkL._AC_UL450_SR450,320_.jpg",
+    "name": "BQYA Wireless mic Lavalier Plug & Play Microphone BM1 Lapel Mic System",
+    "rating": "⭐⭐⭐⭐ (117)",
+    "money":"₹999",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/41CjtrzRisL._AC_UL450_SR450,320_.jpg",
+    "name": "VOOK Wireless Mic, Noise Reduction Mic with Charging Case for iPhone",
+    "rating": "⭐⭐⭐⭐ (18)",
+    "money":"₹1,799",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/51nZ+mK+vdL._AC_UL450_SR450,320_.jpg",
+    "name": "HAYDEN Portable Karaoke Sound Echo Mixer System Machine Set",
+    "rating": "⭐⭐⭐⭐ (5)",
+    "money":"₹1,999",
+    "cart": "ADD TO CART"
+  }
+
+],
+
+
+"Newreleasesfive": [
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/71Y6amjGDZL._AC_UL160_SR160,160_.jpg",
+    "name": "Centrino Mens 8654-2 Men's Formal Shoe Black ",
+    "rating": "⭐⭐⭐⭐ (53)",
+    "money":"₹749",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/617Ys2XchKL._AC_UL160_SR160,160_.jpg",
+    "name": "Digitek (DWM-001 Wireless Microphone & Receiver Type C",
+    "rating": "⭐⭐⭐ (301)",
+    "money":"₹899",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/81xh30r-+qL._AC_UL160_SR160,160_.jpg",
+    "name": "U.S. POLO ASSN. Men's Cotton Boxers-Pack of 1",
+    "rating": "⭐⭐⭐⭐ (1,258)",
+    "money":"₹819",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/51U4XIMKLWL._AC_UL450_SR450,320_.jpg",
+    "name": "Digital Dial Waterproof Smart Design LED Display Kids Watch for Boys",
+    "rating": "⭐⭐⭐⭐ (147)",
+    "money":"₹376",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/419sMTGpHIL._AC_UL450_SR450,320_.jpg",
+    "name": "motoart pastel highlighter set of 5 (assorted)",
+    "rating": "⭐⭐⭐⭐ (1,790)",
+    "money":"₹100",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/61TMAiiHZ3L._AC_UL160_SR160,160_.jpg",
+    "name": "Jockey Women's Capri",
+    "rating": "⭐⭐⭐⭐ (3,099)",
+    "money":"₹779",
+    "cart": "ADD TO CART"
+  }
+
+],
+
+
+"fashionone": [
+  {
+    "image": "https://m.media-amazon.com/images/I/41guHaPZV2L._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "Generic",
+    "name": "Dilemma Women's Polycotton Printed Night Suit Pack of 1",
+    "rating": "⭐⭐⭐ (1,686)",
+    "money":"₹779",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/41YOF+TsqiL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "Aesthetica Fashion",
+    "name": "Aesthetica Fashion Men,s Polycotton T- Shirt",
+    "rating": "⭐⭐⭐⭐ (1,317)",
+    "money":"₹499",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61Xi-N978GL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "SL FASHION",
+    "name": "SL FASHION Regular Fit Floral Print Casual Shirt",
+    "rating": "⭐⭐⭐⭐ (12)",
+    "money":"₹499",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81VCH5jMY6L._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "JOLGER",
+    "name": "JOLGER Men's Polyester Round Neck Breathable T-Shirt for Sports & Gym",
+    "rating": "⭐⭐⭐⭐ (14)",
+    "money":"₹698",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/51tyfR3R1UL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "Fashion Color",
+    "name": "Fashion Colour Kiss Lip No Transfer Matte Lipstick",
+    "rating": "⭐⭐⭐⭐ (344)",
+    "money":"₹262",
+    "cart": "ADD TO CART"
+  }
+],
+
+
+"fashiontwo": [
+  {
+    "image": "https://m.media-amazon.com/images/I/71BJUuO2ANL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "BATA",
+    "name": "BATA Women Deva Fashion Sandals",
+    "rating": "⭐⭐⭐⭐ (3,552)",
+    "money":"₹996",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81TS6iTQwXL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "COTLAND Fashions",
+    "name": "COTLAND Fashions Jaipuri Cotton Printed Flared Strappy A-Line Dress for Women",
+    "rating": "⭐⭐⭐⭐ (57)",
+    "money":"₹749",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/31h2aQlRrvL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "Leriya Fashion",
+    "name": "Leriya Fashion Women's Tai-Dye Printed Mesh Rayon Lycra High V-Collar",
+    "rating": "⭐⭐⭐ (102)",
+    "money":"₹379",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81eQWLwBMrL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "Jaanvi Fashion",
+    "name": "Jaanvi fashion Women's Ethnic Floral Crepe Silk Saree With Blouse",
+    "rating": "⭐⭐⭐⭐ (30)",
+    "money":"₹499",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71VwBpZIsUL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "Dream Beauty Fashion",
+    "name": "Women's Highwaist Short Mini Skirt Houndstooth",
+    "rating": "⭐⭐⭐⭐ (12)",
+    "money":"₹299",
+    "cart": "ADD TO CART"
+  }
+],
+
+
+"fashionthree": [
+  {
+    "image": "https://tse1.mm.bing.net/th?id=OIP.3E9elaglorRAHFlhueyEuQHaJE&pid=Api&P=0",
+    "brand": "Urbano Fashion",
+    "name": "Urbano Fashion Men's Ice Blue Slim Fit Denim Jeans Stretchable",
+    "rating": "⭐⭐⭐ (358)",
+    "money":"₹594",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81Ap5GLk9ML._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "MIRCHI FASHION",
+    "name": " Women's Stylish Chiffon Floral Printed Saree with Blouse Piece",
+    "rating": "⭐⭐⭐ (176)",
+    "money":"₹429",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71sTTNITjrL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "FUNDAY FASHION",
+    "name": "Women's Self-design Regular Jacket",
+    "rating": "⭐⭐⭐⭐ (9,524)",
+    "money":"₹399",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://tse4.mm.bing.net/th?id=OIP.bhwhwRN0wvQxiTZU4hPr1AHaLN&pid=Api&P=0",
+    "brand": "Jaanvi Fashion",
+    "name": "Shapewear,Petticoat,Skirt",
+    "rating": "⭐⭐⭐⭐ (574)",
+    "money":"₹525",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81Gkrab8QSL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "Jaanvi Fashion",
+    "name": "Jaanvi fashion Women's Banarasi Silk Sarees With Zari Jacquard Work ",
+    "rating": "⭐⭐⭐⭐ (487)",
+    "money":"₹675",
+    "cart": "ADD TO CART"
+  }
+],
+
+
+"fashionfour": [
+  {
+    "image": "https://m.media-amazon.com/images/I/61QEfToGzTL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "INK FREE FASHION",
+    "name": "INK FREE FASHION Women Full Sleeve Printed T-Shirt",
+    "rating": "⭐⭐ (8)",
+    "money":"₹399",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/51GAJQK4VuL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "Leriya Fashion",
+    "name": " Women's Yoga Dress Pants Stretchy Work Slacks Business ",
+    "rating": "⭐⭐⭐ (468)",
+    "money":"₹279",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/41ebTQE5zDL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "Leriya Fashion",
+    "name": "Women's Plus Size Short Sleeve Deep V Neck",
+    "rating": "⭐⭐⭐⭐ (765)",
+    "money":"₹239",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81oJJV9trYL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "JOLGER",
+    "name": " Polyester Full Sleeve Hooded All- Weather Jacket",
+    "rating": "⭐⭐⭐ (57)",
+    "money":"₹1,394",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71sTTNITjrL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "FUNDAY FASHION",
+    "name": "FUNDAY FASHION Women's Self-design Regular Jacket",
+    "rating": "⭐⭐⭐⭐ (9,786)",
+    "money":"₹349",
+    "cart": "ADD TO CART"
+  }
+],
+
+
+"fashionfive": [
+  {
+    "image": "https://m.media-amazon.com/images/I/512pBZ7L-JL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "Diverse",
+    "name": "Diverse Men Casual Shirt",
+    "rating": "⭐⭐⭐ (1,135)",
+    "money":"₹729",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71BqV3R0R2L._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "LEWEL",
+    "name": "LEWEL Men's Stylish Hooded Neck Checked Buttoned Down T-Shirt",
+    "rating": "⭐⭐⭐ (197)",
+    "money":"₹455",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/41bLUBUG7OL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "WORDOID",
+    "name": "WORDOID Fashion Men's Cotton Casual Striped Full Sleeve Shirt",
+    "rating": "⭐ (7)",
+    "money":"₹599",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71tZtxBhOJL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "WildHorn",
+    "name": "WildHorn Blue Hunter Leather Wallet for Men I Top Grain Leather",
+    "rating": "⭐⭐⭐⭐ (26,595)",
+    "money":"₹478",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81EqA--jXFL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "Amazon Brand",
+    "name": "Amazon Brand - Inkast Denim Co. Men Casual Shirt",
+    "rating": "⭐⭐⭐⭐ (15,998)",
+    "money":"₹709",
+    "cart": "ADD TO CART"
+  }
+],
+
+
+"fashionsix": [
+  {
+    "image": "https://m.media-amazon.com/images/I/61TStdiQN6L._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "Bacca Bucci",
+    "name": "Comfy Mid-Top Casual Chunky Streetwear Fashion Sneakers",
+    "rating": "⭐⭐⭐⭐ (755)",
+    "money":"₹1,399",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71PWQ1b8LHL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "VOGARDA",
+    "name": "VOGARD Men's Artificial Leather Belt",
+    "rating": "⭐⭐⭐⭐ (3,839)",
+    "money":"₹499",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/51fwaxcgHHL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "LEWEL",
+    "name": "LEWEL Men's Stylish Hooded Graphic Printed T-Shirt ",
+    "rating": "⭐⭐⭐ (27)",
+    "money":"₹459",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/616NVTS05CL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "Fashion Frill",
+    "name": "Fashion Frill Silver Chain For Men Fashion Jewellery Double ",
+    "rating": "⭐⭐⭐⭐ (95)",
+    "money":"₹210",
+    "cart": "ADD TO CART"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61zKXC3M+fL._AC_UL480_FMwebp_QL65_.jpg",
+    "brand": "Bacca Bucci",
+    "name": "Men's Comfy Hi-Top Casual Chunky Streetwear Fashion Sneakers",
+    "rating": "⭐⭐⭐⭐ (428)",
+    "money":"₹1,785",
+    "cart": "ADD TO CART"
+  }
+]
+}
